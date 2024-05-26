@@ -1,16 +1,25 @@
-# crud_app
+<h1 align='center'>CRUD APPLICATION</h1>
 
-crud app
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table align="center">
+    <tr>
+        <th>Product Page</th>
+        <th>Add Product</th>
+        <th>Update Product</th>
+       <th>Delete Product</th>
+    </tr>
+    <tr>
+        <td><img width="200"
+                src="https://raw.githubusercontent.com/atikhossainbd/files/main/module-13-assignment/home-page.png"
+                alt="Product Page">
+        </td>
+        <td><img width="200"
+                src="https://raw.githubusercontent.com/atikhossainbd/files/main/module-13-assignment/add-product.png"
+                alt="Add Product"></td>
+        <td><img width="200" src="https://raw.githubusercontent.com/atikhossainbd/files/main/module-13-assignment/update-product.png"
+                alt="Update Product">
+        </td>
+      <td><img width="200" src="https://raw.githubusercontent.com/atikhossainbd/files/main/module-13-assignment/delete-product.png"
+                alt="Delete Product">
+        </td>
+    </tr>
+</table>
